@@ -2,6 +2,8 @@ import "./App.css";
 import { useState, useEffect } from "react";
 import { db } from "./utils/config/firebase-config";
 import { collection, getDocs } from "@firebase/firestore/lite";
+import { PDFDownloadLink } from '@react-pdf/renderer';
+import Catalog from "./components/reports/Catalog";
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -9,6 +11,7 @@ function App() {
   useEffect(() => {
     const getProducts = async () => {
       const data = await getDocs(productsCollectionRef);
+      console.log(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
       setProducts(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
     };
     getProducts();
@@ -17,16 +20,11 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="text-center mt-6 mb-12">Productos</h1>
-      <ul className="text-center">
-        {products.map((product, key) => (
-          <li key={key}>
-            Nombre: <span className="text-gray-500 font-semibold capitalize">{product.name}</span>, 
-            Precio: <span className="text-green-500 font-semibold">{product.price}$</span>, 
-            Cantidad en stock: <span className="text-red-500 font-semibold">{product.stock}</span>
-          </li>
-        ))}
-      </ul>
+      <PDFDownloadLink document={<Catalog products={products} />} fileName="somename.pdf">
+      {({ blob, url, loading, error }) =>
+        loading ? 'Loading document...' : 'Download now!'
+      }
+    </PDFDownloadLink>
     </div>
   );
 }
