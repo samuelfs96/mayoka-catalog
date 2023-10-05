@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="container">
-      <PDFDownloadLink document={<Catalog products={products} />} fileName="somename.pdf">
+      <PDFDownloadLink document={<Catalog products={products} />} fileName="catalogo-prueba.pdf">
       {({ blob, url, loading, error }) =>
         loading ? 'Loading document...' : 'Download now!'
       }

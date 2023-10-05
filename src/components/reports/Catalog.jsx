@@ -8,6 +8,7 @@ import {
   Image,
 } from "@react-pdf/renderer";
 import banner from "../../img/banner.png";
+import footer from "../../img/footer.png";
 
 // Create styles
 const styles = StyleSheet.create({
@@ -31,6 +32,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
     color: "grey",
     fontSize: 10,
+    zIndex: 100,
   },
   title: {
     textTransform: 'uppercase',
@@ -47,6 +49,14 @@ const styles = StyleSheet.create({
     color: '#0097B2',
     fontSize: 18,
     fontWeight: 'bold'
+  },
+  footer: {
+    position: "absolute",
+    bottom: 0,
+    left: 0,
+    right: 0,
+    zIndex: 0,
+    height: 30
   }
 });
 
@@ -83,6 +93,7 @@ function Catalog({ products }) {
           }
           fixed
         />
+        <Image style={styles.footer} src={footer} fixed />
       </Page>
     </Document>
   );
