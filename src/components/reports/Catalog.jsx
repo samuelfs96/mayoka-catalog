@@ -9,6 +9,7 @@ import {
   Font
 } from "@react-pdf/renderer";
 import banner from "../../img/banner.png";
+//import bannerblack from "../../img/banner-black.png";
 import footer from "../../img/footer.png";
 import SofiaRegular from "../../fonts/SofiaSansCondensed-Regular.ttf";
 import SofiaLight from "../../fonts/SofiaSansCondensed-Light.ttf";
@@ -25,7 +26,7 @@ const styles = StyleSheet.create({
   page: {
     fontFamily: 'SofiaSansCondensed',
     backgroundColor: "#0000",
-    paddingBottom: 65,
+    paddingBottom: 40,
   },
   section: {
     paddingHorizontal: 35,
@@ -81,7 +82,7 @@ function Catalog({ products }) {
       <Page size="A4" style={styles.page}>
         <View>
           <Image src={banner} fixed />
-          <br style={{marginBottom: '40px'}} fixed/>
+          <br style={{marginBottom: '20px'}} fixed/>
           <View style={styles.section}>
             {[...products, ...products].map((product, key) => (
               <View key={key} style={styles.row}>
