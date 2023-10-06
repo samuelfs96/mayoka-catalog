@@ -86,7 +86,7 @@ function Catalog({ products }) {
           <View style={styles.section}>
             {[...products, ...products].map((product, key) => (
               <View key={key} style={styles.row}>
-                <Image style={{ width: "150px" }} src={defaultImage} />
+                <Image style={{ width: "150px", border: "1px solid grey" }} src={product.img || defaultImage} />
                 <View style={{justifyContent: 'center', width: "400px"}}>
                   <Text style={styles.title}>
                     {product.name}
