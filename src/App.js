@@ -27,7 +27,7 @@ function App() {
         </div>
         <div className="mb-[5rem] flex flex-col gap-2 items-center">
           <PDFDownloadLink
-            className="font-sofiaSans rounded-sm text-lg text-center bg-[#0097B2] border-white border-2 text-white py-3 w-[66%]"
+            className="font-sofiaSans rounded-sm text-lg text-center bg-[#0097B2] border-white border-2 text-white py-2 w-[66%]"
             document={<Catalog products={products} />}
             fileName="catalogo-prueba.pdf"
           >
@@ -36,7 +36,7 @@ function App() {
             }
           </PDFDownloadLink>
           <PDFDownloadLink
-            className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-3 w-[66%]"
+            className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-2 w-[66%]"
             document={<Catalog products={products} />}
             fileName="catalogo-prueba.pdf"
           >
