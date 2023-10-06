@@ -6,13 +6,24 @@ import {
   Document,
   StyleSheet,
   Image,
+  Font
 } from "@react-pdf/renderer";
 import banner from "../../img/banner.png";
 import footer from "../../img/footer.png";
+import SofiaRegular from "../../fonts/SofiaSansCondensed-Regular.ttf";
+import SofiaLight from "../../fonts/SofiaSansCondensed-Light.ttf";
+import SofiaBold from "../../fonts/SofiaSansCondensed-Bold.ttf";
 
+// Register font
+Font.register({ family: 'SofiaSansCondensed', fonts: [
+    { src: SofiaRegular }, // font-style: normal, font-weight: normal
+    { src: SofiaLight, fontWeight: 300 },
+    { src: SofiaBold, fontWeight: 700 },
+   ]});
 // Create styles
 const styles = StyleSheet.create({
   page: {
+    fontFamily: 'SofiaSansCondensed',
     backgroundColor: "#0000",
     paddingBottom: 65,
   },
@@ -31,24 +42,24 @@ const styles = StyleSheet.create({
     right: 0,
     textAlign: "center",
     color: "grey",
-    fontSize: 10,
+    fontSize: 12,
     zIndex: 100,
   },
   title: {
     textTransform: 'uppercase',
-    fontWeight: 'bold',
-    fontSize: 12,
-    marginBottom: 2,
+    fontSize: 16,
+    marginBottom: 1,
   },
   code: {
     color: 'grey',
-    fontSize: 10,
-    marginBottom: 14
+    fontSize: 12,
+    marginBottom: 14,
+    fontWeight: 300
   },
   price: {
     color: '#0097B2',
     fontSize: 18,
-    fontWeight: 'bold'
+    fontWeight: 400
   },
   footer: {
     position: "absolute",
