@@ -14,9 +14,10 @@ const refresh = (after) =>
 
 const getName = (name) => {
   const date = new Date();
+  const month = date.getMonth() + 1;
   return `#${Math.floor(date.getTime() / 1000)}-${name}-MAYOKA-${
     date.getDate() < 10 ? "0" + date.getDate() : date.getDate()
-  }-${date.getMonth() < 10 ? "0" + date.getMonth() : date.getMonth()}`;
+  }-${month < 10 ? "0" + month : month}`;
 };
 
 function App() {
