@@ -6,7 +6,7 @@ import {
   Document,
   StyleSheet,
   Image,
-  Font
+  Font,
 } from "@react-pdf/renderer";
 import banner from "../../img/banner.png";
 //import bannerblack from "../../img/banner-black.png";
@@ -16,21 +16,24 @@ import SofiaLight from "../../fonts/SofiaSansCondensed-Light.ttf";
 import SofiaBold from "../../fonts/SofiaSansCondensed-Bold.ttf";
 
 // Register font
-Font.register({ family: 'SofiaSansCondensed', fonts: [
+Font.register({
+  family: "SofiaSansCondensed",
+  fonts: [
     { src: SofiaRegular }, // font-style: normal, font-weight: normal
     { src: SofiaLight, fontWeight: 300 },
     { src: SofiaBold, fontWeight: 700 },
-   ]});
+  ],
+});
 // Create styles
 const styles = StyleSheet.create({
   page: {
-    fontFamily: 'SofiaSansCondensed',
+    fontFamily: "SofiaSansCondensed",
     backgroundColor: "#0000",
     paddingBottom: 40,
   },
   section: {
     paddingHorizontal: 35,
-    gap: 4
+    gap: 4,
   },
   row: {
     flexDirection: "row",
@@ -47,20 +50,20 @@ const styles = StyleSheet.create({
     zIndex: 100,
   },
   title: {
-    textTransform: 'uppercase',
+    textTransform: "uppercase",
     fontSize: 16,
     marginBottom: 1,
   },
   code: {
-    color: 'grey',
-    fontSize: 12,
-    marginBottom: 14,
-    fontWeight: 300
+    color: "grey",
+    fontSize: 13,
+    marginBottom: 10,
+    fontWeight: 300,
   },
   price: {
-    color: '#0097B2',
+    color: "#0097B2",
     fontSize: 18,
-    fontWeight: 400
+    fontWeight: 400,
   },
   footer: {
     position: "absolute",
@@ -68,8 +71,8 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     zIndex: 0,
-    height: 30
-  }
+    height: 30,
+  },
 });
 
 const defaultImage = `
@@ -82,20 +85,37 @@ function Catalog({ products }) {
       <Page size="A4" style={styles.page}>
         <View>
           <Image src={banner} fixed />
-          <br style={{marginBottom: '20px'}} fixed/>
+          <br style={{ marginBottom: "20px" }} fixed />
           <View style={styles.section}>
-            {[...products, ...products].map((product, key) => (
-              <View key={key} style={styles.row}>
-                <Image style={{ width: "150px", border: "1px solid grey" }} src={product.img || defaultImage} />
-                <View style={{justifyContent: 'center', width: "400px"}}>
-                  <Text style={styles.title}>
-                    {product.name}
-                  </Text>
-                  <Text style={styles.code}>{product.id}</Text>
-                  <Text style={styles.price}>{parseFloat(product.price).toFixed(2)} $</Text>
+            {products
+              .sort(function (a, b) {
+                const nameA = a.name.toUpperCase(); // ignore upper and lowercase
+                const nameB = b.name.toUpperCase(); // ignore upper and lowercase
+                // sort in an ascending order
+                if (nameA < nameB) {
+                  return -1;
+                }
+                if (nameA > nameB) {
+                  return 1;
+                }
+                // names must be equal
+                return 0;
+              })
+              .map((product, key) => (
+                <View key={key} style={styles.row}>
+                  <Image
+                    style={{ width: "120px", border: "1px solid grey" }}
+                    src={product.img || defaultImage}
+                  />
+                  <View style={{ justifyContent: "center", width: "400px" }}>
+                    <Text style={styles.title}>{product.name}</Text>
+                    <Text style={styles.code}>{product.id}</Text>
+                    <Text style={styles.price}>
+                      {parseFloat(product.price).toFixed(2)} $
+                    </Text>
+                  </View>
                 </View>
-              </View>
-            ))}
+              ))}
           </View>
         </View>
         <Text
