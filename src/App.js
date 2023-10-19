@@ -2,10 +2,10 @@ import "./App.css";
 import { useState, useEffect } from "react";
 import { db } from "./utils/config/firebase-config";
 import { collection, getDocs } from "@firebase/firestore/lite";
-import { PDFDownloadLink } from "@react-pdf/renderer";
+import { usePDF } from "@react-pdf/renderer";
 import Catalog from "./components/reports/Catalog";
 import logo from "./img/logo-white.png";
-import Report from "./components/reports/Report";
+//import Report from "./components/reports/Report";
 
 const refresh = (after) =>
   setTimeout(() => {
@@ -20,8 +20,11 @@ const getName = (name) => {
 };
 
 function App() {
-  const [products, setProducts] = useState([]);
   const productsCollectionRef = collection(db, "products");
+  const [products, setProducts] = useState([]);
+  const [instance, updateInstance] = usePDF({
+    document: <Catalog products={products} />,
+  });
 
   useEffect(() => {
     const getProducts = async () => {
@@ -33,6 +36,11 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  useEffect(() => {
+    updateInstance(<Catalog products={products} />)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [products])
+
   return (
     <div className="container mx-auto max-sm:px-0 max-lg:px-[5%] max-xl:px-[10%] max-2xl:px-[20%] px-[15%]">
       <div className="bg-black h-screen flex flex-col justify-between">
@@ -40,17 +48,15 @@ function App() {
           <img className="w-[250px]" src={logo} alt="logo" />
         </div>
         <div className="mb-[5rem] flex flex-col gap-2 items-center">
-          <PDFDownloadLink
+          <a
+            className={`${instance.loading ? 'opacity-75 pointer-events-none' : ''} font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]`}
             onClick={() => refresh(1000)}
-            className="font-sofiaSans rounded-sm text-lg text-center bg-[#0097B2] border-white border-2 text-white py-2 w-[66%]"
-            document={<Catalog products={products} />}
-            fileName={`${getName("CATALOGO")}.pdf`}
+            href={instance.url}
+            download={`${getName("CATALOGO")}.pdf`}
           >
-            {({ blob, url, loading, error }) =>
-              loading ? "Cargando..." : "Descargar Catálogo"
-            }
-          </PDFDownloadLink>
-          <PDFDownloadLink
+            {instance.loading ? "Cargando data..." : "Descargar Catálogo"}
+          </a>
+          {/* <PDFDownloadLink
             onClick={() => refresh(1000)}
             className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-2 w-[66%]"
             document={<Report />}
@@ -59,7 +65,7 @@ function App() {
             {({ blob, url, loading, error }) =>
               loading ? "Cargando..." : "Descargar Reporte"
             }
-          </PDFDownloadLink>
+          </PDFDownloadLink> */}
         </div>
       </div>
     </div>
