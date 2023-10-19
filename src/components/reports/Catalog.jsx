@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   title: {
     textTransform: "uppercase",
-    fontSize: 16,
+    fontSize: 15,
     marginBottom: 1,
   },
   code: {
@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
   },
   price: {
     color: "#0097B2",
-    fontSize: 18,
+    fontSize: 17,
     fontWeight: 400,
   },
   footer: {
