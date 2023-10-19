@@ -5,6 +5,7 @@ import { collection, getDocs } from "@firebase/firestore/lite";
 import { PDFDownloadLink } from "@react-pdf/renderer";
 import Catalog from "./components/reports/Catalog";
 import logo from "./img/logo-white.png";
+import Report from "./components/reports/Report";
 
 const refresh = (after) =>
   setTimeout(() => {
@@ -52,7 +53,7 @@ function App() {
           <PDFDownloadLink
             onClick={() => refresh(1000)}
             className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-2 w-[66%]"
-            document={<Catalog products={products} />}
+            document={<Report />}
             fileName={`${getName("REPORTE")}.pdf`}
           >
             {({ blob, url, loading, error }) =>

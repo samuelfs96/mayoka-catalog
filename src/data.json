@@ -1,0 +1,1939 @@
+[
+    {
+        "suave": {
+            "futuro": [
+                {
+                    "Column1": 7682,
+                    "Column2": "PAPEL SUAVE GOLD 4 ROLLOS 270H 1X12 PAQ",
+                    "Column3": 12,
+                    "Column4": 1,
+                    "Column5": 3.15,
+                    "Column6": 37.8
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "PAPEL SUAVE GOLD 4 ROLLOS 270 HOJAS 48 ROLLOS",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 37,
+                    "Column5": 3.08,
+                    "Column6": 34,
+                    "Column7": 2.83
+                }
+            ]
+        }
+    },
+    {
+        "rosal": {
+            "futuro": [
+                {
+                    "Column1": 3176,
+                    "Column2": "PAPEL ROSAL 2 ROLLOS 215H X24 PAQ",
+                    "Column3": 24,
+                    "Column4": 601,
+                    "Column5": 0.5,
+                    "Column6": 12
+                },
+                {
+                    "Column1": 2554,
+                    "Column2": "PAPEL ROSAL 4 ROLLOS 215H 1X12 PAQ",
+                    "Column3": 12,
+                    "Column4": 1649.08,
+                    "Column5": 0.97,
+                    "Column6": 11.64
+                },
+                {
+                    "Column1": 1590,
+                    "Column2": "PAPEL ROSAL 4 ROLLOS 300HOJAS  1X12 PAQ",
+                    "Column3": 12,
+                    "Column4": 330.92,
+                    "Column5": 1.55,
+                    "Column6": 18.6
+                },
+                {
+                    "Column1": 3772,
+                    "Column2": "PAPEL ROSAL HIG PLUS 4R 600HOJAS 1X12 PAQ",
+                    "Column3": 12,
+                    "Column4": 279,
+                    "Column5": 2.99,
+                    "Column6": 35.88
+                },
+                {
+                    "Column1": 3647,
+                    "Column2": "PAPEL ROSAL PLUS 4R 400HOJAS 1X12 PAQ",
+                    "Column3": 12,
+                    "Column4": 231,
+                    "Column5": 1.98,
+                    "Column6": 23.76
+                },
+                {
+                    "Column1": 3773,
+                    "Column2": "TOALLIN ROSAL MULTIUSO 80 HOJAS 1X24 PAQ",
+                    "Column3": 24,
+                    "Column4": 24.33,
+                    "Column5": 0.93,
+                    "Column6": 22.32
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "PAPEL ROSAL PLUS 4 ROLLOS 600 HOJAS 48 ROLLOS",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 35,
+                    "Column5": 2.92,
+                    "Column6": 33,
+                    "Column7": 2.75
+                },
+                {
+                    "Column1": "PAPEL ROSAL PLUS 4 ROLLOS 400 HOJAS 48 ROLLOS",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 25,
+                    "Column5": 2.08,
+                    "Column6": 22,
+                    "Column7": 1.83
+                },
+                {
+                    "Column1": "PAPEL ROSAL PLUS 4 ROLLOS 300 HOJAS 48 ROLLOS",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 20,
+                    "Column5": 1.67,
+                    "Column6": 17,
+                    "Column7": 1.42
+                },
+                {
+                    "Column1": "PAPEL ROSAL PLUS 2 ROLLOS 215 HOJAS 48 ROLLOS",
+                    "Column2": 24,
+                    "Column3": "PAVECA",
+                    "Column4": 12,
+                    "Column5": 0.5,
+                    "Column6": 10,
+                    "Column7": 0.42
+                },
+                {
+                    "Column1": "PAPEL ROSAL PLUS 4 ROLLOS 215 HOJAS 48 ROLLOS",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 12,
+                    "Column5": 1,
+                    "Column6": 10,
+                    "Column7": 0.83
+                },
+                {
+                    "Column1": "TOALLIN ROSAL TOWELS MULTIUSO 80H",
+                    "Column2": 24,
+                    "Column3": "PAVECA",
+                    "Column4": 25,
+                    "Column5": 1.04,
+                    "Column6": 23,
+                    "Column7": 0.96
+                }
+            ]
+        }
+    },
+    {
+        "servilleta": {
+            "futuro": [
+                {
+                    "Column1": 7203,
+                    "Column2": "SET NEGRO DE TENEDOR,CUCHILLO SERVILLETA 5 PAQ",
+                    "Column3": 5,
+                    "Column4": 1.8,
+                    "Column5": 6,
+                    "Column6": 30
+                },
+                {
+                    "Column1": 5144,
+                    "Column2": "SERVILLETA HOUSEHOLD 1X12PAQX170HOJAS",
+                    "Column3": 12,
+                    "Column4": 147,
+                    "Column5": 2.08,
+                    "Column6": 24.96
+                },
+                {
+                    "Column1": 5995,
+                    "Column2": "SERVILLETA Z GRANDE 1X16 X 300HOJAS",
+                    "Column3": 16,
+                    "Column4": 1.25,
+                    "Column5": 1.49,
+                    "Column6": 23.84
+                },
+                {
+                    "Column1": 5111,
+                    "Column2": "SERVILLETA Z PEQUEÑA 20PAQ X 160HOJAS",
+                    "Column3": 20,
+                    "Column4": 88,
+                    "Column5": 0.75,
+                    "Column6": 15
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "SERVILLETA  HOUSEHOLD NAPKINS 12X170",
+                    "Column2": 12,
+                    "Column3": "PAVECA",
+                    "Column4": 30,
+                    "Column5": 2.5,
+                    "Column6": 27,
+                    "Column7": 2.25
+                },
+                {
+                    "Column1": "SERVILLETA 24x160 Z GRANDE",
+                    "Column2": 24,
+                    "Column3": "PAVECA",
+                    "Column4": 29,
+                    "Column5": 1.21,
+                    "Column6": 27,
+                    "Column7": 1.13
+                },
+                {
+                    "Column1": "SERVILLETA 20x160 Z PEQUEÑA",
+                    "Column2": 20,
+                    "Column3": "PAVECA",
+                    "Column4": 17,
+                    "Column5": 0.85,
+                    "Column6": 14,
+                    "Column7": 0.7
+                },
+                {
+                    "Column1": "KIT CUCHILLO, TENEDOR, SERVILLETA NEGRO 1x300",
+                    "Column2": 300,
+                    "Column3": "SELVA",
+                    "Column4": 25,
+                    "Column5": 0.08,
+                    "Column6": 23,
+                    "Column7": 0.08
+                },
+                {
+                    "Column1": "KIT CUCHARA, CUCHILLO, TENEDOR, SERVILLETA 1x300",
+                    "Column2": 300,
+                    "Column3": "SELVA",
+                    "Column4": 33,
+                    "Column5": 0.11,
+                    "Column6": 31,
+                    "Column7": 0.1
+                }
+            ]
+        }
+    },
+    {
+        "pañitos": {
+            "futuro": [
+                {
+                    "Column1": 4899,
+                    "Column2": "PAÑO DE COCINA 1X12UND",
+                    "Column3": 12,
+                    "Column4": 96.33,
+                    "Column5": 0.9,
+                    "Column6": 10.8
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "PAÑITOS AMRILLOS 1X12",
+                    "Column2": 12,
+                    "Column3": "ORIGINAL",
+                    "Column4": 10,
+                    "Column5": 0.83,
+                    "Column6": 8,
+                    "Column7": 0.67
+                }
+            ]
+        }
+    },
+    {
+        "bolsas": {
+            "futuro": [
+                {
+                    "Column1": 809,
+                    "Column2": "BOLSA C/ASA 10KGX1000",
+                    "Column3": 1,
+                    "Column4": 329,
+                    "Column5": 10.5,
+                    "Column6": 10.5
+                },
+                {
+                    "Column1": 811,
+                    "Column2": "BOLSA C/ASA 20KG 1X1000",
+                    "Column3": 1,
+                    "Column4": 30,
+                    "Column5": 18.5,
+                    "Column6": 18.5
+                },
+                {
+                    "Column1": 812,
+                    "Column2": "BOLSA C/ASA 2KGX  8X1000",
+                    "Column3": 1,
+                    "Column4": 699,
+                    "Column5": 4.95,
+                    "Column6": 4.95
+                },
+                {
+                    "Column1": 5965,
+                    "Column2": "BOLSA C/ASA RAYADO 10KG X1000",
+                    "Column3": 1,
+                    "Column4": 279,
+                    "Column5": 11.4,
+                    "Column6": 11.4
+                },
+                {
+                    "Column1": 5966,
+                    "Column2": "BOLSAS C/ASA RAYADO 15KG X1000",
+                    "Column3": 1,
+                    "Column4": 65,
+                    "Column5": 17.7,
+                    "Column6": 17.7
+                },
+                {
+                    "Column1": 7000,
+                    "Column2": "BOLSAS CON ASA 3KG 8X1000 (AMARILLA)",
+                    "Column3": 1,
+                    "Column4": 281,
+                    "Column5": 6.1,
+                    "Column6": 6.1
+                },
+                {
+                    "Column1": 317,
+                    "Column2": "BOLSAS CON ASA 5KG  7X1000",
+                    "Column3": 1,
+                    "Column4": 314,
+                    "Column5": 7.9,
+                    "Column6": 7.9
+                },
+                {
+                    "Column1": 322,
+                    "Column2": "BOLSAS CON ASA AZUL 25KG X1000 EXT.FUERTE",
+                    "Column3": 1,
+                    "Column4": 15,
+                    "Column5": 42.5,
+                    "Column6": 42.5
+                },
+                {
+                    "Column1": 321,
+                    "Column2": "BOLSAS CON ASAS DE 25 KG. X 1000 UNID NORMAL",
+                    "Column3": 1,
+                    "Column4": 33,
+                    "Column5": 28.5,
+                    "Column6": 28.5
+                },
+                {
+                    "Column1": 6583,
+                    "Column2": "BOBINA BOLSA PRE SELLADA 26X38",
+                    "Column3": 1,
+                    "Column4": 9,
+                    "Column5": 19.5,
+                    "Column6": 19.5
+                },
+                {
+                    "Column1": 6584,
+                    "Column2": "BOLSA PARA HIELO 15X50CM 500UND",
+                    "Column3": 1,
+                    "Column4": 18,
+                    "Column5": 10,
+                    "Column6": 10
+                },
+                {
+                    "Column1": 1766,
+                    "Column2": "BOLSA PARA HIELO 30CMX70CM 500UND",
+                    "Column3": 1,
+                    "Column4": 13,
+                    "Column5": 67,
+                    "Column6": 67
+                },
+                {
+                    "Column1": 331,
+                    "Column2": "BOLSA SIN ASA 1/2 KGX20X1000",
+                    "Column3": 1,
+                    "Column4": 123,
+                    "Column5": 3.56,
+                    "Column6": 3.56
+                },
+                {
+                    "Column1": 332,
+                    "Column2": "BOLSA SIN ASA 1KG 20X1000",
+                    "Column3": 1,
+                    "Column4": 172,
+                    "Column5": 4.45,
+                    "Column6": 4.45
+                },
+                {
+                    "Column1": 333,
+                    "Column2": "BOLSA SIN ASA 2KGX10X1000",
+                    "Column3": 1,
+                    "Column4": 236,
+                    "Column5": 5.5,
+                    "Column6": 5.5
+                },
+                {
+                    "Column1": 330,
+                    "Column2": "BOLSA TETA 1/4KGX20X1000",
+                    "Column3": 1,
+                    "Column4": 866,
+                    "Column5": 3.17,
+                    "Column6": 3.17
+                },
+                {
+                    "Column1": 2016,
+                    "Column2": "BOLSA  DE CANILLA C/ASA 2KG X500 UNIDAD",
+                    "Column3": 1,
+                    "Column4": 188,
+                    "Column5": 4.9,
+                    "Column6": 4.9
+                },
+                {
+                    "Column1": 1734,
+                    "Column2": "BOLSA PARA CANILLAS 3 KG C/ASA 17X58 (500)UND",
+                    "Column3": 1,
+                    "Column4": 187,
+                    "Column5": 6.3,
+                    "Column6": 6.3
+                },
+                {
+                    "Column1": 5516,
+                    "Column2": "BOLSA PARA CANILLA 2KG 27X55 8X(1000)",
+                    "Column3": 1,
+                    "Column4": 24,
+                    "Column5": 9.5,
+                    "Column6": 9.5
+                },
+                {
+                    "Column1": 5346,
+                    "Column2": "BOLSA PARA CANILLAS 3KG 29X60   6X(1000)",
+                    "Column3": 1,
+                    "Column4": 113,
+                    "Column5": 11,
+                    "Column6": 11
+                },
+                {
+                    "Column1": 327,
+                    "Column2": "BOLSAS DE SANDWICH (25X65)",
+                    "Column3": 1,
+                    "Column4": 40,
+                    "Column5": 14.5,
+                    "Column6": 14.5
+                },
+                {
+                    "Column1": 326,
+                    "Column2": "BOLSAS PARA PAN SANDWICH 25X45",
+                    "Column3": 1,
+                    "Column4": 33,
+                    "Column5": 10.5,
+                    "Column6": 10.5
+                },
+                {
+                    "Column1": 329,
+                    "Column2": "BOLSA DE SANDWICH TRANSPARENTE(25X65)",
+                    "Column3": 1,
+                    "Column4": 40,
+                    "Column5": 23,
+                    "Column6": 23
+                },
+                {
+                    "Column1": 328,
+                    "Column2": "BOLSAS DE SANDWICH TRANSPARENTE (25X45)",
+                    "Column3": 1,
+                    "Column4": 34,
+                    "Column5": 16.5,
+                    "Column6": 16.5
+                },
+                {
+                    "Column1": 806,
+                    "Column2": "BOLSA BASURA EXT.FUERTE 30KG 8PAQ X100U",
+                    "Column3": 800,
+                    "Column4": 53.13,
+                    "Column5": 0.09,
+                    "Column6": 72
+                },
+                {
+                    "Column1": 804,
+                    "Column2": "BOLSA BASURA NEGRA E/F NORMAL 40KG 4X50 200UND",
+                    "Column3": 200,
+                    "Column4": 73.5,
+                    "Column5": 0.21,
+                    "Column6": 42
+                },
+                {
+                    "Column1": 6582,
+                    "Column2": "BOLSA DE BASURA B/DENS 40KG 4X50 200UND",
+                    "Column3": 200,
+                    "Column4": 55,
+                    "Column5": 0.21,
+                    "Column6": 42
+                },
+                {
+                    "Column1": 339,
+                    "Column2": "BOLSA PARA PAPELERA 15LTSX1000 UNID",
+                    "Column3": 1,
+                    "Column4": 61,
+                    "Column5": 19,
+                    "Column6": 19
+                },
+                {
+                    "Column1": 341,
+                    "Column2": "BOLSA PARA PAPELERA 30LTSX1000 UNID",
+                    "Column3": 1,
+                    "Column4": 46,
+                    "Column5": 27,
+                    "Column6": 27
+                },
+                {
+                    "Column1": 7753,
+                    "Column2": "BOLSA DE PAPEL 3KG 100UN X 20PAQ",
+                    "Column3": 20,
+                    "Column4": 4,
+                    "Column5": 4.5,
+                    "Column6": 90
+                },
+                {
+                    "Column1": 5789,
+                    "Column2": "BOLSAS DE PAPEL 1/2KG 100UND X 30 PAQ",
+                    "Column3": 30,
+                    "Column4": 8.9,
+                    "Column5": 1.75,
+                    "Column6": 52.5
+                },
+                {
+                    "Column1": 5790,
+                    "Column2": "BOLSAS DE PAPEL 1KG 100UND X 30 PAQ",
+                    "Column3": 30,
+                    "Column4": 3.9,
+                    "Column5": 2.45,
+                    "Column6": 73.5
+                },
+                {
+                    "Column1": 5792,
+                    "Column2": "BOLSAS DE PAPEL 2 CANILLA 100UND X10 PAQ",
+                    "Column3": 10,
+                    "Column4": 4.8,
+                    "Column5": 5.25,
+                    "Column6": 52.5
+                },
+                {
+                    "Column1": 5793,
+                    "Column2": "BOLSAS DE PAPEL 3 CANILLA 100 UND X10PAQ",
+                    "Column3": 10,
+                    "Column4": 4.1,
+                    "Column5": 6.5,
+                    "Column6": 65
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "BOLSA DE PAPEL PAN DE CANILLA 1X100",
+                    "Column2": 100,
+                    "Column3": "PAPEL",
+                    "Column4": 10,
+                    "Column5": 0.1,
+                    "Column6": 9,
+                    "Column7": 0.09
+                },
+                {
+                    "Column1": "BOLSA CON ASA 2 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 6.5,
+                    "Column5": 0.01,
+                    "Column6": 5.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA CON ASA 3 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 7.5,
+                    "Column5": 0.01,
+                    "Column6": 6.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA CON ASA 5 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 9.5,
+                    "Column5": 0.01,
+                    "Column6": 8.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA CON ASA 10 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 14,
+                    "Column5": 0.01,
+                    "Column6": 12.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA CON ASA 15 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 19,
+                    "Column5": 0.02,
+                    "Column6": 17.5,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "BOLSA CON ASA 25 KG. (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 44,
+                    "Column5": 0.04,
+                    "Column6": 42,
+                    "Column7": 0.04
+                },
+                {
+                    "Column1": "BOLSA CANILLA 3 CON ASA KG (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 12.5,
+                    "Column5": 0.01,
+                    "Column6": 11,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA CANILLA SIN ASA 2 KG (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 12,
+                    "Column5": 0.01,
+                    "Column6": 10.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA DE HIELO 15X45 (1x500) CASERO",
+                    "Column2": 500,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 21,
+                    "Column5": 0.04,
+                    "Column6": 19.5,
+                    "Column7": 0.04
+                },
+                {
+                    "Column1": "BOLSA DE HIELO 25X50 (1x500) MINI",
+                    "Column2": 500,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 32,
+                    "Column5": 0.06,
+                    "Column6": 30,
+                    "Column7": 0.06
+                },
+                {
+                    "Column1": "BOLSA DE HIELO 30X70 (1x300) GRANDE",
+                    "Column2": 300,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 48,
+                    "Column5": 0.16,
+                    "Column6": 46,
+                    "Column7": 0.15
+                },
+                {
+                    "Column1": "BOLSA DE TETA 1/4 (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 6,
+                    "Column5": 0.01,
+                    "Column6": 5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA DE SIN ASA CHILLONA 1 KG (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 5,
+                    "Column5": 0.01,
+                    "Column6": 4.5,
+                    "Column7": 0
+                },
+                {
+                    "Column1": "BOLSA DE SIN ASA CHILLONA 2 KG (1x1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 8,
+                    "Column5": 0.01,
+                    "Column6": 7,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA PANADERA CHILLONA 25X45 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 11,
+                    "Column5": 0.01,
+                    "Column6": 10,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA PANADERA CHILLONA 25X55 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 13,
+                    "Column5": 0.01,
+                    "Column6": 12,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA PANADERA CHILLONA 25X65 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 15.5,
+                    "Column5": 0.02,
+                    "Column6": 14.5,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA ARABE  CHILLONA 34X45(1X1000)",
+                    "Column2": 1000,
+                    "Column3": "CHILLONA",
+                    "Column4": 15,
+                    "Column5": 0.02,
+                    "Column6": 13,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA PANADERA TRANSPARENTE 25X45 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 23,
+                    "Column5": 0.02,
+                    "Column6": 22,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "BOLSA PANADERA TRANSPARENTE 25X55 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 28.5,
+                    "Column5": 0.03,
+                    "Column6": 26,
+                    "Column7": 0.03
+                },
+                {
+                    "Column1": "BOLSA PANADERA TRANSPARENTE 25X65 (1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 33.5,
+                    "Column5": 0.03,
+                    "Column6": 31,
+                    "Column7": 0.03
+                },
+                {
+                    "Column1": "BOLSA ARABE  TRANSPARENTE  34X45(1X1000)",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 31,
+                    "Column5": 0.03,
+                    "Column6": 29,
+                    "Column7": 0.03
+                },
+                {
+                    "Column1": "BOLSA DE BASURA TRANSPARENTE 30 LITRO.",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 25,
+                    "Column5": 0.03,
+                    "Column6": 23,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "BOLSA DE BASURA TRANSPARENTE 15 LITRO.",
+                    "Column2": 1000,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 21,
+                    "Column5": 0.02,
+                    "Column6": 19,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "BOLSA PRECORTADA BOBINA 18*41",
+                    "Column2": 2000,
+                    "Column3": "CHILLONA",
+                    "Column4": 16,
+                    "Column5": 0.01,
+                    "Column6": 14,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "BOLSA DE BASURA TRANSPARENTE CALIBRE 8 40 Kg.",
+                    "Column2": 200,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 60,
+                    "Column5": 0.3,
+                    "Column6": 58,
+                    "Column7": 0.29
+                },
+                {
+                    "Column1": "BOLSA DE BASURA NEGRA  FUERTE 40 Kg.",
+                    "Column2": 100,
+                    "Column3": "NEGRA",
+                    "Column4": 18,
+                    "Column5": 0.18,
+                    "Column6": 16,
+                    "Column7": 0.16
+                },
+                {
+                    "Column1": "BOLSA DE BASURA NEGRA  FUERTE 30 Kg.",
+                    "Column2": 150,
+                    "Column3": "NEGRA",
+                    "Column4": 15,
+                    "Column5": 0.1,
+                    "Column6": 13,
+                    "Column7": 0.09
+                }
+            ]
+        }
+    },
+    {
+        "vasos": {
+            "futuro": [
+                {
+                    "Column1": 5550,
+                    "Column2": "VASO PLASTICO PET 24 OZ  12PAQ X50UNIDAD C-9850",
+                    "Column3": 12,
+                    "Column4": 0.42,
+                    "Column5": 9.65,
+                    "Column6": 115.8
+                },
+                {
+                    "Column1": 4524,
+                    "Column2": "VASO ARCOIRIS N 227 20X30UNIDAD",
+                    "Column3": 20,
+                    "Column4": 26.1,
+                    "Column5": 2.45,
+                    "Column6": 49
+                },
+                {
+                    "Column1": 3372,
+                    "Column2": "VASO LOS LLANOS N 107 20X50 UNIDADES",
+                    "Column3": 20,
+                    "Column4": 117,
+                    "Column5": 1,
+                    "Column6": 20
+                },
+                {
+                    "Column1": 3373,
+                    "Column2": "VASO LOS LLANOS N 127 20X50UNIDADES",
+                    "Column3": 20,
+                    "Column4": 16.1,
+                    "Column5": 1.39,
+                    "Column6": 27.8
+                },
+                {
+                    "Column1": 3374,
+                    "Column2": "VASO LOS LLANOS N 147 20X50UNIDADES",
+                    "Column3": 20,
+                    "Column4": 13.15,
+                    "Column5": 1.78,
+                    "Column6": 35.6
+                },
+                {
+                    "Column1": 3375,
+                    "Column2": "VASO LOS LLANOS N 167 20X50UNIDADES",
+                    "Column3": 20,
+                    "Column4": 26.05,
+                    "Column5": 1.8,
+                    "Column6": 36
+                },
+                {
+                    "Column1": 2693,
+                    "Column2": "VASO LOS LLANOS N 17 50X100 UNIDADES",
+                    "Column3": 50,
+                    "Column4": 31.12,
+                    "Column5": 0.75,
+                    "Column6": 37.5
+                },
+                {
+                    "Column1": 2595,
+                    "Column2": "VASO LOS LLANOS N 27 50X100UNIDADES",
+                    "Column3": 50,
+                    "Column4": 80.32,
+                    "Column5": 0.76,
+                    "Column6": 38
+                },
+                {
+                    "Column1": 3366,
+                    "Column2": "VASO LOS LLANOS N 37 50X100UNIDADES",
+                    "Column3": 50,
+                    "Column4": 20.96,
+                    "Column5": 0.8,
+                    "Column6": 40
+                },
+                {
+                    "Column1": 3367,
+                    "Column2": "VASO LOS LLANOS N 47 25X100UNIDADES",
+                    "Column3": 25,
+                    "Column4": 15.2,
+                    "Column5": 1.18,
+                    "Column6": 29.5
+                },
+                {
+                    "Column1": 3368,
+                    "Column2": "VASO LOS LLANOS N 57 25X100 UNIDADES",
+                    "Column3": 25,
+                    "Column4": 193,
+                    "Column5": 1.36,
+                    "Column6": 34
+                },
+                {
+                    "Column1": 3369,
+                    "Column2": "VASO LOS LLANOS N 67 25X100 UNIDADES",
+                    "Column3": 25,
+                    "Column4": 5.04,
+                    "Column5": 1.39,
+                    "Column6": 34.75
+                },
+                {
+                    "Column1": 3370,
+                    "Column2": "VASO LOS LLANOS N 77 25X100UNIDADES",
+                    "Column3": 25,
+                    "Column4": 53,
+                    "Column5": 1.42,
+                    "Column6": 35.5
+                },
+                {
+                    "Column1": 3371,
+                    "Column2": "VASO LOS LLANOS N 89 20X50UNIDADES",
+                    "Column3": 20,
+                    "Column4": 69.35,
+                    "Column5": 1,
+                    "Column6": 20
+                },
+                {
+                    "Column1": 2585,
+                    "Column2": "VASO LICORERO A GRANEL 1X 300 UNIDADES",
+                    "Column3": 300,
+                    "Column4": 8.34,
+                    "Column5": 0.15,
+                    "Column6": 45
+                },
+                {
+                    "Column1": 354,
+                    "Column2": "VASO MAXIPLAS #147 20X50 UNIDADES",
+                    "Column3": 20,
+                    "Column4": 5.15,
+                    "Column5": 2.05,
+                    "Column6": 41
+                },
+                {
+                    "Column1": 2571,
+                    "Column2": "VASO MAXIPLAS #67 25X100 UNIDADES",
+                    "Column3": 25,
+                    "Column4": 4.88,
+                    "Column5": 1.62,
+                    "Column6": 40.5
+                },
+                {
+                    "Column1": 1487,
+                    "Column2": "VASO MAXIPLAS #89 20X50 UNIDADES",
+                    "Column3": 20,
+                    "Column4": 2.75,
+                    "Column5": 1.13,
+                    "Column6": 22.6
+                },
+                {
+                    "Column1": 3492,
+                    "Column2": "VASO GRANDE DE 22 OZ 1X180UNIDADES H0096",
+                    "Column3": 180,
+                    "Column4": 17.8,
+                    "Column5": 0.34,
+                    "Column6": 61.47
+                },
+                {
+                    "Column1": 3402,
+                    "Column2": "VASO LICUADORA DE 1.2 LTS 1X24 H0006",
+                    "Column3": 24,
+                    "Column4": 14.46,
+                    "Column5": 2.39,
+                    "Column6": 57.3
+                },
+                {
+                    "Column1": 3423,
+                    "Column2": "VASOS DE 16 OZ 1X216 UNIDADES H0060",
+                    "Column3": 216,
+                    "Column4": 1.42,
+                    "Column5": 0.18,
+                    "Column6": 39.44
+                },
+                {
+                    "Column1": 5821,
+                    "Column2": "VASO CON RAYA 1X160 UND M051",
+                    "Column3": 160,
+                    "Column4": 12.89,
+                    "Column5": 0.25,
+                    "Column6": 40
+                },
+                {
+                    "Column1": 7251,
+                    "Column2": "VASO OCEANO GRANDE 4UND 1X24 C-11704",
+                    "Column3": 24,
+                    "Column4": 1,
+                    "Column5": 2.76,
+                    "Column6": 66.24
+                },
+                {
+                    "Column1": 7250,
+                    "Column2": "VASO PREMIUM PEQUEÑO 6UND 1X30 C-11702",
+                    "Column3": 30,
+                    "Column4": 0.97,
+                    "Column5": 3,
+                    "Column6": 90
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "VASO CAFETERO ARCOIRIS NR 1 1x100",
+                    "Column2": 50,
+                    "Column3": "ARCOIRIS",
+                    "Column4": 45,
+                    "Column5": 0.9,
+                    "Column6": 42,
+                    "Column7": 0.84
+                },
+                {
+                    "Column1": "VASO DIAMANTE CAFETERO NR 2 1x100",
+                    "Column2": 50,
+                    "Column3": "DIAMANTE",
+                    "Column4": 46,
+                    "Column5": 0.92,
+                    "Column6": 42,
+                    "Column7": 0.84
+                },
+                {
+                    "Column1": "VASO DIAMANTE NR 10 1x50",
+                    "Column2": 20,
+                    "Column3": "DIAMANTE",
+                    "Column4": 22,
+                    "Column5": 1.1,
+                    "Column6": 20,
+                    "Column7": 1
+                },
+                {
+                    "Column1": "VASO DIAMANTE NR 12 1x50",
+                    "Column2": 20,
+                    "Column3": "ARCOIRIS",
+                    "Column4": 34,
+                    "Column5": 1.7,
+                    "Column6": 30,
+                    "Column7": 1.5
+                },
+                {
+                    "Column1": "VASO ARCOIRIS NR 14 1x50",
+                    "Column2": 20,
+                    "Column3": "ARCOIRIS",
+                    "Column4": 44,
+                    "Column5": 2.2,
+                    "Column6": 40,
+                    "Column7": 2
+                },
+                {
+                    "Column1": "VASO ARCOIRIS NR 16 1x50",
+                    "Column2": 20,
+                    "Column3": "ARCOIRIS",
+                    "Column4": 46,
+                    "Column5": 2.3,
+                    "Column6": 42,
+                    "Column7": 2.1
+                },
+                {
+                    "Column1": "VASO DURAPLAST LICORERO 1X216",
+                    "Column2": 216,
+                    "Column3": "DURAPLAST",
+                    "Column4": 54,
+                    "Column5": 0.25,
+                    "Column6": 50,
+                    "Column7": 0.23
+                },
+                {
+                    "Column1": "VASO CONICO PLASTICO 1X150",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 42,
+                    "Column5": 2.1,
+                    "Column6": 39,
+                    "Column7": 1.95
+                },
+                {
+                    "Column1": "VASO SELVA CAFETERO BLANCO N 2 1X50",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 70,
+                    "Column5": 1.4,
+                    "Column6": 65,
+                    "Column7": 1.3
+                },
+                {
+                    "Column1": "VASO  SELVA BLANCO F-10 1X50",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 19,
+                    "Column5": 0.95,
+                    "Column6": 17,
+                    "Column7": 0.85
+                },
+                {
+                    "Column1": "TAPA VASO TV-1.5/2/3 BLANCO 1X100",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 44,
+                    "Column5": 0.88,
+                    "Column6": 41,
+                    "Column7": 0.82
+                },
+                {
+                    "Column1": "VASO FAVEP BLANCO CAFETERO  N 2  1X100",
+                    "Column2": 50,
+                    "Column3": "FAVEP",
+                    "Column4": 60,
+                    "Column5": 1.2,
+                    "Column6": 56,
+                    "Column7": 1.12
+                },
+                {
+                    "Column1": "VASO FAVEP TRANSPARENTE N 5  1X100",
+                    "Column2": 25,
+                    "Column3": "FAVEP",
+                    "Column4": 61,
+                    "Column5": 2.44,
+                    "Column6": 57,
+                    "Column7": 2.28
+                },
+                {
+                    "Column1": "VASO FAVEP TRANSPARENTE N 7  1X100",
+                    "Column2": 25,
+                    "Column3": "FAVEP",
+                    "Column4": 47,
+                    "Column5": 1.88,
+                    "Column6": 44,
+                    "Column7": 1.76
+                },
+                {
+                    "Column1": "VASO FAVEP TRASLUCIDO F-10 1X50",
+                    "Column2": 20,
+                    "Column3": "FAVEP",
+                    "Column4": 22,
+                    "Column5": 1.1,
+                    "Column6": 20,
+                    "Column7": 1
+                },
+                {
+                    "Column1": "VASO FAVEP NEGRO F-107  1X50",
+                    "Column2": 20,
+                    "Column3": "FAVEP",
+                    "Column4": 22,
+                    "Column5": 1.1,
+                    "Column6": 20,
+                    "Column7": 1
+                },
+                {
+                    "Column1": "VASO SELVA KRISTAL  K-5 1X24",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 97,
+                    "Column5": 2.69,
+                    "Column6": 90,
+                    "Column7": 2.5
+                },
+                {
+                    "Column1": "VASO SELVA KRISTAL K-10 1X12",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 87,
+                    "Column5": 2.42,
+                    "Column6": 81,
+                    "Column7": 2.25
+                },
+                {
+                    "Column1": "VASO SELVA KRISTAL K-16 1X8",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 100,
+                    "Column5": 2.78,
+                    "Column6": 92,
+                    "Column7": 2.56
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 12 ONZ TRANS.          1X10",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 1.83,
+                    "Column6": 62,
+                    "Column7": 1.72
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 12 ONZ AMARILLO   1X10",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 1.83,
+                    "Column6": 62,
+                    "Column7": 1.72
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 12 ONZ NARANJA     1X10",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 1.83,
+                    "Column6": 62,
+                    "Column7": 1.72
+                },
+                {
+                    "Column1": "VASO SELVAFLEXY  12 ONZ ROJO             1X10",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 1.83,
+                    "Column6": 62,
+                    "Column7": 1.72
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 12  ONZ VERDE          1X10",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 1.83,
+                    "Column6": 62,
+                    "Column7": 1.72
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 10 ONZ  ARCOIRIS    1X12",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 64,
+                    "Column5": 1.78,
+                    "Column6": 59,
+                    "Column7": 1.64
+                },
+                {
+                    "Column1": "VASO SELVA FLEXY 16 ONZ  ARCOIRIS    1X8",
+                    "Column2": 36,
+                    "Column3": "SELVA",
+                    "Column4": 64,
+                    "Column5": 1.78,
+                    "Column6": 59,
+                    "Column7": 1.64
+                },
+                {
+                    "Column1": "VASO PAPEL 4 ONZ BLANCO DOMINGO 1X50",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 66,
+                    "Column5": 3.3,
+                    "Column6": 62,
+                    "Column7": 3.1
+                },
+                {
+                    "Column1": "VASO PAPEL 6 ONZ BLANCO DOMINGO 1X50",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 69,
+                    "Column5": 3.45,
+                    "Column6": 65,
+                    "Column7": 3.25
+                },
+                {
+                    "Column1": "TAPA VASO V6 BEBIDA CALIENTE NEGRA 1X50",
+                    "Column2": 25,
+                    "Column3": "SELVA",
+                    "Column4": 44,
+                    "Column5": 1.76,
+                    "Column6": 41,
+                    "Column7": 1.64
+                }
+            ]
+        }
+    },
+    {
+        "tenedor": {
+            "futuro": [
+                {
+                    "Column1": 7261,
+                    "Column2": "TENEDOR MEDIANO OCEAN 20UND 1X100 C-TE256",
+                    "Column3": 100,
+                    "Column4": 1.64,
+                    "Column5": 0.71,
+                    "Column6": 71
+                },
+                {
+                    "Column1": 7262,
+                    "Column2": "TENEDOR MULTIUSO OCEAN 20UND 1X100 C-TE258",
+                    "Column3": 100,
+                    "Column4": 1,
+                    "Column5": 0.8,
+                    "Column6": 80
+                },
+                {
+                    "Column1": 1462,
+                    "Column2": "TENEDORES DE FIESTA OCEAN 20UND 1X100 C-TE262",
+                    "Column3": 100,
+                    "Column4": 1,
+                    "Column5": 0.46,
+                    "Column6": 46
+                },
+                {
+                    "Column1": 7263,
+                    "Column2": "TENEDORES OCEAN 20UND 1X100 C-TE261",
+                    "Column3": 100,
+                    "Column4": 2.76,
+                    "Column5": 0.83,
+                    "Column6": 83
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "TENEDORES AGRANEL 1X1000 NEGROS",
+                    "Column2": 1000,
+                    "Column3": "NEGROS",
+                    "Column4": 19,
+                    "Column5": 0.02,
+                    "Column6": 16,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "TENEDOR HEAVY  1X20   SELVA BLANCO",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 32,
+                    "Column5": 0.64,
+                    "Column6": 30,
+                    "Column7": 0.6
+                }
+            ]
+        }
+    },
+    {
+        "cuchara": {
+            "futuro": [
+                {
+                    "Column1": 2472,
+                    "Column2": "CUCHARA MAXI PLASS 100UNIDADES X 10 PAQ",
+                    "Column3": 10,
+                    "Column4": 9.4,
+                    "Column5": 2.47,
+                    "Column6": 24.73
+                },
+                {
+                    "Column1": 2583,
+                    "Column2": "CUCHARA MAXI PLASS PEQUEÑA  10X100 UNIDADES",
+                    "Column3": 10,
+                    "Column4": 12.4,
+                    "Column5": 1.4,
+                    "Column6": 14
+                },
+                {
+                    "Column1": 5824,
+                    "Column2": "CUCHARA PLASTICA GRANDE GRANEL BUL/1000UND M060",
+                    "Column3": 1,
+                    "Column4": 3,
+                    "Column5": 24.5,
+                    "Column6": 24.5
+                },
+                [
+                    {
+                        "Column1": 7259,
+                        "Column2": "CUCHARILLA HELADO OCEAN 20UND 1X100 C-CU257",
+                        "Column3": 100,
+                        "Column4": 1.34,
+                        "Column5": 0.55,
+                        "Column6": 55
+                    },
+                    {
+                        "Column1": 7258,
+                        "Column2": "CUCHARILLA MEDIANA OCEAN 20UND 1X100 C-CU253",
+                        "Column3": 100,
+                        "Column4": 0.76,
+                        "Column5": 0.7,
+                        "Column6": 70
+                    },
+                    {
+                        "Column1": 7260,
+                        "Column2": "CUCHARILLA SOPERA OCEAN 20UND 1X100 C-CU260",
+                        "Column3": 100,
+                        "Column4": 1,
+                        "Column5": 0.83,
+                        "Column6": 83
+                    }
+                ]
+            ],
+            "calimar": [
+                {
+                    "Column1": "CUCHARA SOPERA AGRANEL  1X1000 BLANCOS",
+                    "Column2": 1000,
+                    "Column3": "MULTIPLAS",
+                    "Column4": 23,
+                    "Column5": 0.02,
+                    "Column6": 20,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "CUCHARA POSTRE AGRANEL  1X1000 BLANCOS",
+                    "Column2": 1000,
+                    "Column3": "MULTIPLAS",
+                    "Column4": 15,
+                    "Column5": 0.02,
+                    "Column6": 13,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "CUCHARITA POSTRE  1X25 SELVA   NEGRA",
+                    "Column2": 40,
+                    "Column3": "SELVA",
+                    "Column4": 26,
+                    "Column5": 0.65,
+                    "Column6": 24,
+                    "Column7": 0.6
+                }
+            ]
+        }
+    },
+    {
+        "cuchillo": {
+            "futuro": [
+                {
+                    "Column1": 5558,
+                    "Column2": "CUCHILLO PLASTICO MK 50X20UNIDAD",
+                    "Column3": 50,
+                    "Column4": 0.86,
+                    "Column5": 0.49,
+                    "Column6": 24.5
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "CUCHILLO MEDIUM KNM 1X20 SELVA NEGRO",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 34,
+                    "Column5": 0.68,
+                    "Column6": 31,
+                    "Column7": 0.62
+                }
+            ]
+        }
+    },
+    {
+        "tina": {
+            "futuro": [
+                {
+                    "Column1": 4224,
+                    "Column2": "TINA C/TAPA Nª 32 X300UND",
+                    "Column3": 300,
+                    "Column4": 9,
+                    "Column5": 0.32,
+                    "Column6": 96
+                },
+                {
+                    "Column1": 523,
+                    "Column2": "TINA CON TAPA # 23  1X300",
+                    "Column3": 300,
+                    "Column4": 23,
+                    "Column5": 0.27,
+                    "Column6": 81
+                },
+                {
+                    "Column1": 5817,
+                    "Column2": "TINA # 32 1X300 UND M031",
+                    "Column3": 300,
+                    "Column4": 5,
+                    "Column5": 0.26,
+                    "Column6": 78
+                },
+                {
+                    "Column1": 4223,
+                    "Column2": "TINA C/TAPA Nª 16 X300UND",
+                    "Column3": 300,
+                    "Column4": 33,
+                    "Column5": 0.15,
+                    "Column6": 45
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "TINA 5 ONZ 600 UNIDADES",
+                    "Column2": 600,
+                    "Column3": "TRANSPARENTE",
+                    "Column4": 67,
+                    "Column5": 0.11,
+                    "Column6": 63,
+                    "Column7": 0.11
+                },
+                {
+                    "Column1": "TINA TST-8OZ 1X25",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 128,
+                    "Column5": 6.4,
+                    "Column6": 118,
+                    "Column7": 5.9
+                },
+                {
+                    "Column1": "TINA TST-16OZ 1X25",
+                    "Column2": 20,
+                    "Column3": "SELVA",
+                    "Column4": 144,
+                    "Column5": 7.2,
+                    "Column6": 133,
+                    "Column7": 6.65
+                }
+            ]
+        }
+    },
+    {
+        "envase": {
+            "futuro": [
+                {
+                    "Column1": 1063,
+                    "Column2": "ENVASE ALUMINIO CON TAPA GP 788 GDE. 1X500",
+                    "Column3": 500,
+                    "Column4": 41.8,
+                    "Column5": 0.25,
+                    "Column6": 125
+                },
+                {
+                    "Column1": 1066,
+                    "Column2": "ENVASE.ALUMINIO PEQUEÑO  1X500 C-420",
+                    "Column3": 500,
+                    "Column4": 27,
+                    "Column5": 0.14,
+                    "Column6": 70
+                },
+                {
+                    "Column1": 4227,
+                    "Column2": "ENVASE PLASTICO C/CIERRE PLUS 16 OZ X200UND",
+                    "Column3": 200,
+                    "Column4": 12,
+                    "Column5": 0.14,
+                    "Column6": 28
+                },
+                {
+                    "Column1": 4219,
+                    "Column2": "ENVASE PLASTICO C/CIERRE PLUS 48 OZ X200UND",
+                    "Column3": 200,
+                    "Column4": 1,
+                    "Column5": 0.35,
+                    "Column6": 70
+                },
+                {
+                    "Column1": 5547,
+                    "Column2": "ENVASE PLASTICO C/CIERRE PLUS MAXI  450 B X200",
+                    "Column3": 200,
+                    "Column4": 1,
+                    "Column5": 0.16,
+                    "Column6": 32
+                },
+                {
+                    "Column1": 2782,
+                    "Column2": "ENVASE PLASTICO PET N11  1X200",
+                    "Column3": 200,
+                    "Column4": 1,
+                    "Column5": 0.31,
+                    "Column6": 62.1
+                },
+                {
+                    "Column1": 2052,
+                    "Column2": "ENVASE TRIANGULAR  ALTA 1X200",
+                    "Column3": 200,
+                    "Column4": 15,
+                    "Column5": 0.1,
+                    "Column6": 20
+                },
+                {
+                    "Column1": 2053,
+                    "Column2": "ENVASE TRIANGULAR BAJA 1 X200",
+                    "Column3": 200,
+                    "Column4": 25,
+                    "Column5": 0.1,
+                    "Column6": 20
+                },
+                {
+                    "Column1": 2051,
+                    "Column2": "ENVASES  PLASTICOS C/CIERRE 8 ONZAS X200",
+                    "Column3": 200,
+                    "Column4": 31,
+                    "Column5": 0.15,
+                    "Column6": 29.9
+                },
+                {
+                    "Column1": 2573,
+                    "Column2": "ENVASES PLASTICOS C/CIERRE 12 ONZAS X200",
+                    "Column3": 200,
+                    "Column4": 9,
+                    "Column5": 0.12,
+                    "Column6": 24
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "ENVASE TERMICA CT-3 (200 UNDS) P3",
+                    "Column2": 200,
+                    "Column3": "MULTIPLAS",
+                    "Column4": 32,
+                    "Column5": 0.16,
+                    "Column6": 30,
+                    "Column7": 0.15
+                },
+                {
+                    "Column1": "ENVASE TRIANGULAR MAXIPLAST ALTO 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 22,
+                    "Column5": 0.11,
+                    "Column6": 19,
+                    "Column7": 0.1
+                },
+                {
+                    "Column1": "ENVASE TRIANGULAR MAXIPLAST BAJO 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 22,
+                    "Column5": 0.11,
+                    "Column6": 19,
+                    "Column7": 0.1
+                },
+                {
+                    "Column1": "ENVASE PET 8 ONZ 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 28,
+                    "Column5": 0.14,
+                    "Column6": 26,
+                    "Column7": 0.13
+                },
+                {
+                    "Column1": "ENVASE PET 12 ONZ 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 30,
+                    "Column5": 0.15,
+                    "Column6": 28,
+                    "Column7": 0.14
+                },
+                {
+                    "Column1": "ENVASE PET 32 ONZ 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 52,
+                    "Column5": 0.26,
+                    "Column6": 48,
+                    "Column7": 0.24
+                },
+                {
+                    "Column1": "ENVASE PET 48 ONZ 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 80,
+                    "Column5": 0.4,
+                    "Column6": 74,
+                    "Column7": 0.37
+                },
+                {
+                    "Column1": "ENVASE PET 450 BAJO  1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 35,
+                    "Column5": 0.18,
+                    "Column6": 31,
+                    "Column7": 0.16
+                },
+                {
+                    "Column1": "ENVASE PET 500 BAJO  1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 42,
+                    "Column5": 0.21,
+                    "Column6": 38,
+                    "Column7": 0.19
+                },
+                {
+                    "Column1": "ENVASE PET 23 ONZ 1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 40,
+                    "Column5": 0.2,
+                    "Column6": 36,
+                    "Column7": 0.18
+                },
+                {
+                    "Column1": "ENVASE PET 1000 ALTO  1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 66,
+                    "Column5": 0.33,
+                    "Column6": 62,
+                    "Column7": 0.31
+                },
+                {
+                    "Column1": "ENVASE PET 1000 BAJO  1X200",
+                    "Column2": 200,
+                    "Column3": "MAXIPLAS",
+                    "Column4": 66,
+                    "Column5": 0.33,
+                    "Column6": 62,
+                    "Column7": 0.31
+                },
+                {
+                    "Column1": "ENVASE ANIME CON DIV FC-11L (CT3 LISO)",
+                    "Column2": 200,
+                    "Column3": "SELVA",
+                    "Column4": 18,
+                    "Column5": 0.09,
+                    "Column6": 17,
+                    "Column7": 0.09
+                },
+                {
+                    "Column1": "ENVASE ANIME CON DIV FC-11D (CT3 DIV)",
+                    "Column2": 200,
+                    "Column3": "SELVA",
+                    "Column4": 18,
+                    "Column5": 0.09,
+                    "Column6": 17,
+                    "Column7": 0.09
+                },
+                {
+                    "Column1": "ENVASE ANIME FC-12  (1/2 Pollo) (CT4)",
+                    "Column2": 200,
+                    "Column3": "SELVA",
+                    "Column4": 13,
+                    "Column5": 0.07,
+                    "Column6": 12,
+                    "Column7": 0.06
+                }
+            ]
+        }
+    },
+    {
+        "plato": {
+            "futuro": [
+                {
+                    "Column1": 6929,
+                    "Column2": "PLATO DE CARTON DE COLORES #7 6 UND X50PAQ",
+                    "Column3": 50,
+                    "Column4": 3.98,
+                    "Column5": 0.47,
+                    "Column6": 23.57
+                },
+                {
+                    "Column1": 5561,
+                    "Column2": "PLATO DE CARTON LAS PALMAS # 6 50X20 UDS",
+                    "Column3": 50,
+                    "Column4": 2.64,
+                    "Column5": 1.15,
+                    "Column6": 57.5
+                },
+                {
+                    "Column1": 5562,
+                    "Column2": "PLATO DE CARTON LAS PALMAS # 7 50X20 UDS",
+                    "Column3": 50,
+                    "Column4": 5.84,
+                    "Column5": 1.65,
+                    "Column6": 82.66
+                },
+                {
+                    "Column1": 5563,
+                    "Column2": "PLATO DE CARTON LAS PALMAS # 8 50X20 UDS",
+                    "Column3": 50,
+                    "Column4": 5.66,
+                    "Column5": 1.79,
+                    "Column6": 89.7
+                },
+                {
+                    "Column1": 6928,
+                    "Column2": "PLATO DE CARTON LAS PALMAS #9 50X20 UND",
+                    "Column3": 50,
+                    "Column4": 0.26,
+                    "Column5": 2.36,
+                    "Column6": 117.87
+                },
+                {
+                    "Column1": 7033,
+                    "Column2": "PLATO PLASTICO CONTINENTAL N#5 10UND X50PAQ",
+                    "Column3": 50,
+                    "Column4": 3.9,
+                    "Column5": 0.32,
+                    "Column6": 16
+                },
+                {
+                    "Column1": 7029,
+                    "Column2": "PLATO TERMICO EURO PLAST ANIME N°8 1X200 UND",
+                    "Column3": 200,
+                    "Column4": 18,
+                    "Column5": 0.04,
+                    "Column6": 8.5
+                },
+                {
+                    "Column1": 7031,
+                    "Column2": "PLATO TERMICO EURO PLAST N°11 1X200 UND",
+                    "Column3": 200,
+                    "Column4": 3,
+                    "Column5": 0.07,
+                    "Column6": 13
+                },
+                {
+                    "Column1": 7028,
+                    "Column2": "PLATO TERMICO EURO PLAST N°6 1X250 UND",
+                    "Column3": 250,
+                    "Column4": 17,
+                    "Column5": 0.03,
+                    "Column6": 7.5
+                },
+                {
+                    "Column1": 7030,
+                    "Column2": "PLATO TERMICO EURO PLAST N°9 1X200 UND",
+                    "Column3": 200,
+                    "Column4": 7,
+                    "Column5": 0.05,
+                    "Column6": 10.5
+                },
+                {
+                    "Column1": 5088,
+                    "Column2": "PLATO HONDO 9^PULGADAS #2 1X96UND H0151",
+                    "Column3": 96,
+                    "Column4": 11.5,
+                    "Column5": 0.42,
+                    "Column6": 40.56
+                },
+                {
+                    "Column1": 3446,
+                    "Column2": "PLATO HONDO DE 9 PULGADAS 1X 144  H0009",
+                    "Column3": 144,
+                    "Column4": 1.04,
+                    "Column5": 0.36,
+                    "Column6": 52.4
+                },
+                {
+                    "Column1": 3447,
+                    "Column2": "PLATO LLANO DE 9 PUL  1X144 UNIDADES H0108",
+                    "Column3": 144,
+                    "Column4": 0.13,
+                    "Column5": 0.36,
+                    "Column6": 52.4
+                },
+                {
+                    "Column1": 555,
+                    "Column2": "PLATO CONTINENTAL #7 10UNDX50PAQ",
+                    "Column3": 50,
+                    "Column4": 10,
+                    "Column5": 0.57,
+                    "Column6": 28.5
+                },
+                {
+                    "Column1": 7752,
+                    "Column2": "PLATO CONTINENTAL #8 10UNDX50PAQ",
+                    "Column3": 50,
+                    "Column4": 9,
+                    "Column5": 0.74,
+                    "Column6": 37
+                },
+                {
+                    "Column1": 7034,
+                    "Column2": "PLATO PLASTICO CONTINENTAL N#9 10UND X30PAQ",
+                    "Column3": 30,
+                    "Column4": 23.63,
+                    "Column5": 1,
+                    "Column6": 30
+                },
+                {
+                    "Column1": 7253,
+                    "Column2": "PLATO C/ DIVISION 1X72 C-12401",
+                    "Column3": 72,
+                    "Column4": 5.92,
+                    "Column5": 0.66,
+                    "Column6": 47.52
+                },
+                {
+                    "Column1": 7254,
+                    "Column2": "PLATO HONDO REAL 1X60 C-12402",
+                    "Column3": 60,
+                    "Column4": 0.3,
+                    "Column5": 0.81,
+                    "Column6": 48.6
+                },
+                {
+                    "Column1": 7255,
+                    "Column2": "PLATO LLANO REAL 1X60 C-12404",
+                    "Column3": 60,
+                    "Column4": 0.8,
+                    "Column5": 0.81,
+                    "Column6": 48.6
+                }
+            ],
+            "calimar": [
+                {
+                    "Column1": "PLATO ANIME FPL-6 LISO",
+                    "Column2": 500,
+                    "Column3": "SELVA",
+                    "Column4": 8,
+                    "Column5": 0.02,
+                    "Column6": 7,
+                    "Column7": 0.01
+                },
+                {
+                    "Column1": "PLATO ANIME FPB-6 SOPERO",
+                    "Column2": 500,
+                    "Column3": "SELVA",
+                    "Column4": 12,
+                    "Column5": 0.02,
+                    "Column6": 11,
+                    "Column7": 0.02
+                },
+                {
+                    "Column1": "PLATO ANIME FPL-9 LISO",
+                    "Column2": 400,
+                    "Column3": "SELVA",
+                    "Column4": 12,
+                    "Column5": 0.03,
+                    "Column6": 11,
+                    "Column7": 0.03
+                },
+                {
+                    "Column1": "PLATO SELVA PLASTICO-6     1X10",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 35,
+                    "Column5": 0.7,
+                    "Column6": 32,
+                    "Column7": 0.64
+                },
+                {
+                    "Column1": "PLATO SELVA PLASTICO-8     1X10",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 60,
+                    "Column5": 1.2,
+                    "Column6": 55,
+                    "Column7": 1.1
+                },
+                {
+                    "Column1": "PLATO SELVA PLASTICO-9     1X10",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 81,
+                    "Column5": 1.62,
+                    "Column6": 75,
+                    "Column7": 1.5
+                },
+                {
+                    "Column1": "PLATO SELVA PLASTICO-9 CON DIV.    1X10",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 81,
+                    "Column5": 1.62,
+                    "Column6": 75,
+                    "Column7": 1.5
+                },
+                {
+                    "Column1": "PLATO SELVA PLASTICO-9 NEGRO.    1X10",
+                    "Column2": 50,
+                    "Column3": "SELVA",
+                    "Column4": 69,
+                    "Column5": 1.38,
+                    "Column6": 64,
+                    "Column7": 1.28
+                }
+            ]
+        }
+    }
+]
