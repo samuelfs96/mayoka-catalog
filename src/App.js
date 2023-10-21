@@ -37,9 +37,9 @@ function App() {
   }, []);
 
   useEffect(() => {
-    updateInstance(<Catalog products={products} />)
+    updateInstance(<Catalog products={products} />);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [products])
+  }, [products]);
 
   return (
     <div className="container mx-auto max-sm:px-0 max-lg:px-[5%] max-xl:px-[10%] max-2xl:px-[20%] px-[15%]">
@@ -48,21 +48,21 @@ function App() {
           <img className="w-[250px]" src={logo} alt="logo" />
         </div>
         <div className="mb-[5rem] flex flex-col gap-2 items-center">
-          {instance.blob && instance.blob.size <= 14565 ?
-          <div className="opacity-75 font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]">
-            Cargando data...
-          </div>
-          :
-          <a
-            className="font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]"
-            onClick={() => refresh(1000)}
-            href={instance.url}
-            download={`${getName("CATALOGO")}.pdf`}
-          >
-            Descargar Catálogo
-          </a>
-          }
-          
+          {instance.blob && instance.blob.size > 14565 ? (
+            <a
+              className="font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]"
+              onClick={() => refresh(1000)}
+              href={instance.url}
+              download={`${getName("CATALOGO")}.pdf`}
+            >
+              Descargar Catálogo
+            </a>
+          ) : (
+            <div className="opacity-75 font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]">
+              Cargando data...
+            </div>
+          )}
+
           {/* <PDFDownloadLink
             onClick={() => refresh(1000)}
             className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-2 w-[66%]"
