@@ -49,14 +49,21 @@ function App() {
           <img className="w-[250px]" src={logo} alt="logo" />
         </div>
         <div className="mb-[5rem] flex flex-col gap-2 items-center">
+          {instance.loading ?
+          <div className="opacity-75 font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]">
+            Cargando data...
+          </div>
+          :
           <a
-            className={`${instance.loading ? 'opacity-75 pointer-events-none' : ''} font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]`}
+            className="font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]"
             onClick={() => refresh(1000)}
             href={instance.url}
             download={`${getName("CATALOGO")}.pdf`}
           >
-            {instance.loading ? "Cargando data..." : "Descargar Catálogo"}
+            Descargar Catálogo
           </a>
+          }
+          
           {/* <PDFDownloadLink
             onClick={() => refresh(1000)}
             className="font-sofiaSans rounded-sm text-lg text-center bg-white border-[#0097B2] border-2 text-[#0097B2] py-2 w-[66%]"
