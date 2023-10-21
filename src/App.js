@@ -30,7 +30,6 @@ function App() {
   useEffect(() => {
     const getProducts = async () => {
       const data = await getDocs(productsCollectionRef);
-      console.log(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
       setProducts(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
     };
     getProducts();
@@ -49,7 +48,7 @@ function App() {
           <img className="w-[250px]" src={logo} alt="logo" />
         </div>
         <div className="mb-[5rem] flex flex-col gap-2 items-center">
-          {instance.loading ?
+          {instance.blob && instance.blob.size <= 14565 ?
           <div className="opacity-75 font-sofiaSans text-xl text-center bg-[#0097B2] text-white py-4 w-[66%]">
             Cargando data...
           </div>
